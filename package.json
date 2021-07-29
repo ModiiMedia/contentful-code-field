@@ -9,6 +9,7 @@
     "@contentful/forma-36-fcss": "^0.3.3",
     "@contentful/forma-36-react-components": "^3.93.5",
     "@contentful/forma-36-tokens": "^0.11.0",
+    "@monaco-editor/react": "^4.2.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
